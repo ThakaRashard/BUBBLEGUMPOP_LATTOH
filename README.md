@@ -1,3 +1,18 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300;500&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+  
+
+font-family: 'Ubuntu Mono', monospace;
+  
+  
+  }
+
+</style>
+
+
+
+<img src="https://www.tripsavvy.com/thmb/izRqjnSKPUwtAoD4iLVF_hVE-Q4=/2637x1978/smart/filters:no_upscale()/GettyImages-120503242-5901add75f9b5810dc097af7.jpg">
 <img src="https://cdn.shopify.com/s/files/1/0604/4290/2735/files/Asset_4_480x.png?v=1646971861" >
 
 ## Welcome to GitHub Pages
