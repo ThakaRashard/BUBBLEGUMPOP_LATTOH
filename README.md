@@ -1,3 +1,5 @@
+<img src="https://cdn.shopify.com/s/files/1/0604/4290/2735/files/Asset_4_480x.png?v=1646971861" >
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThakaRashard/BUBBLEGUMPOP_LATTOH/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
